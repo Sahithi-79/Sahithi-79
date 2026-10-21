@@ -14,5 +14,6 @@ I'm Sahithi, an engineer transitioning from Embedded Hardware and Functional Saf
   4. Safety engineering
 
 ## Connect with me on : Github- [Sahithi-79](https://github.com/Sahithi-79/Sahithi-79/edit/main/README.md)
+## My picture ![Myphoto](images (7).jpeg)
 
      
