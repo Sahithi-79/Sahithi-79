@@ -22,7 +22,6 @@ Email: [email](mailto:elaprolusahithi@gmail.com)
 
 
 ## Tools I'm currently learning
--  🐍 Python
 -  🔧 Git
 -  🦞 Markdown
  ----
